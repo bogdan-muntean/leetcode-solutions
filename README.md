@@ -5,10 +5,7 @@
 
 | Problem | Difficulty | JavaScript | Python | C++ |
 |---------|------------|------------|--------|-----|
-| Two Sum | Easy       | [JS](./javascript/easy/two-sum.js) | [PY](./python/easy/two-sum.py) | [CPP](./cpp/easy/two-sum.cpp) |
 | Smallest Value After Replacing With Sum of Prime Factors | Medium | [JS](./javascript/medium/smallest-value.js) | – | – |
-| Longest Substring Without Repeating Characters | Medium | – | [PY](./python/medium/longest-substring.py) | – |
-| Sudoku Solver | Hard | – | – | [CPP](./cpp/hard/sudoku-solver.cpp) |
 
 > The table will be updated as I add more problems and languages.
 
