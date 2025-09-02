@@ -1,35 +1,12 @@
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems in multiple programming languages.
+It is a personal archive for practice and learning purposes.
 
 ---
 
 ## 📑 Problem Index
 
-| Problem | Difficulty | JavaScript | Python | C++ |
-|---------|------------|------------|--------|-----|
-| Smallest Value After Replacing With Sum of Prime Factors | Medium | [JS](./javascript/medium/smallest-value.js) | – | – |
-
-> The table will be updated as I add more problems and languages.
-
----
-
-## 🚀 How to Use
-- Browse the folders by language.  
-- Each file is named after the LeetCode problem.  
-- Some solutions include comments explaining the approach and complexity.  
-
----
-
-## 🛠 Languages Covered
-- JavaScript (ES6+)
-- Python 3
-- C++17
-
----
-
-## 📌 Notes
-- This repository is for educational purposes only.  
-- Solutions may not always be the most optimal, but they reflect my learning process.  
-
----
-
-## 📜 License
-This repository is licensed under the [MIT License](./LICENSE).
+| Problem                                                  | Difficulty | JavaScript                                                                            | TypeScript | Python | C++ | C   | C#  | Java |
+| -------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- | ---------- | ------ | --- | --- | --- | ---- |
+| Smallest Value After Replacing With Sum Of Prime Factors | Medium     | [Link](javascript/medium/Smallest_value_after_replacing_with_sum_of_prime_factors.js) | –          | –      | –   | –   | –   | –    |
